@@ -1,4 +1,4 @@
-# Diaarca
+# Dylan Grousson
 
 **R&D Engineer in Operations Research & Optimization**  
 Master of Science in Operations Research, Combinatorics and Optimization (Master ORCO) — Université Grenoble Alpes (IM²AG)  
